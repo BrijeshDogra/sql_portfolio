@@ -1,2 +1,2 @@
 # sql_portfolio
-SQL portfolio
+Digital Music store analysis using SQL
